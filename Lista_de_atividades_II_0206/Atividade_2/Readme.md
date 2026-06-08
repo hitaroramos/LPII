@@ -9,6 +9,3 @@ A classe emprestimo está associado ao exemplar e vice-versa pois temos que sabe
 
 A classe funcionario está associado a tudo isso por isso está ligada a todos.
 
-> Imagem
-
-![](./assests2/Diagrama_de_classe_ Sistema_de_Biblioteca.png)

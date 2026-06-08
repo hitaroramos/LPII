@@ -4,4 +4,4 @@
 
 > imagem
 
-![](./assests/Diagrama_de_classe_ Parte_B.png)
+![](./Parte_B/Diagrama_de_classe_ Parte_B.png)
