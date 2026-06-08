@@ -1,3 +1,7 @@
+## Respostas
+
+---
+
 1. Atributo de instância: é o nome do aluno. Cada aluno tem o seu, diferente dos outros.
 Atributo estático: é o nome da escola. Todos os alunos pertencem à mesma escola, esse valor é compartilhado.
 
