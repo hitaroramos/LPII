@@ -27,10 +27,6 @@ public class Funcionario
         salario = c1.getTotalSalario();
     }
 
-    public void setSalario(float funcioSalario)
-    {
-        this.salario = funcioSalario;
-    }
     public float getSalario()
     {
         return salario;
