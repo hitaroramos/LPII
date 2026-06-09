@@ -32,10 +32,6 @@ public class Funcionario
         return salario;
     }
 
-    public void setMatricula(int funcioMatricula)
-    {
-        this.matricula = funcioMatricula;
-    }
     public int getMatricula()
     {
         return matricula;
