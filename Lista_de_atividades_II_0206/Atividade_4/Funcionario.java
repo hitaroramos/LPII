@@ -1,7 +1,7 @@
 public abstract class Funcionario
 {
-    private String nome;
-    private String cpf;
+    protected String nome;
+    protected String cpf;
     public abstract void gerarRelatorio();
 
     public void setNome(String nome)
