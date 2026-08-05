@@ -7,7 +7,6 @@
 A exceção na POO é o fator que gera uma falha no algoritmo. O tratamento de exceções implementa ao algoritmo uma maneira de contornar a falha.
 </p>
 </ul>
-
 2.
 <ul>
 <p>   	
@@ -18,7 +17,6 @@ FileNotFoundException: checked; <br>
 ArrayIndexOutOfBoundsException: unchecked. 
 </p>
 </ul>
-
 3.
 <ul> 
 <p align="justify"> 
